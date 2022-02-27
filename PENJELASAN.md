@@ -30,3 +30,4 @@ Exercise table 2:
 15	6	  27	&a	&b	&b
 15	6 	27	&a	&b	&c
 27	6	  27	&a	&b	&c
+
